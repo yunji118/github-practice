@@ -1,0 +1,9 @@
+!DOCTYPE html
+html
+body
+h1Hello JSh1
+script
+console.log(Hello world!);
+script
+body
+html
